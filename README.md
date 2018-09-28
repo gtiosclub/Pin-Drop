@@ -1,4 +1,4 @@
-# Pin-Drop-Fall17
+# Pin-Drop
 [Week 5] Learn how to save your data between launches by building a Pin Drop app (bonus content: MapKit and Gesture Recognizers!).
 
 <p align="center">
